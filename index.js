@@ -21,3 +21,6 @@ let favoriteFood ="pizza";
 console.log(`Your favorite food is ${favoriteFood}`);
 let email = "murimiwaithira@gmail.com";
 console.log(`Your email is ${email}`);
+let online = true;
+console.log(typeof online);
+console.log(`Bro is online: ${online}`);
