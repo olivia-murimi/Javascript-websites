@@ -17,3 +17,7 @@ console.log(`Your gpa is: ${gpa}`);
 let firstName = "Olivia";
 console.log (typeof firstName);
 console.log(`Your name is ${firstName}`);
+let favoriteFood ="pizza";
+console.log(`Your favorite food is ${favoriteFood}`);
+let email = "murimiwaithira@gmail.com";
+console.log(`Your email is ${email}`);
