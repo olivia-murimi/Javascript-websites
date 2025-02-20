@@ -24,13 +24,13 @@ console.log(`Your email is ${email}`);
 let online = true;
 console.log(typeof online);
 console.log(`Bro is online: ${online}`);*/
-let fullName = "Olivia murimi";
+/*let fullName = "Olivia murimi";
 let age = "25";
 let student = true;
 document.getElementById("p1").textContent =`Your name is ${fullName}`;
 document.getElementById("p2").textContent =`You are ${age} years old`;
 document.getElementById("p3").textContent =`Enrolled: ${isStudent}`;
-let students = 30;
+let students = 30;*/
 //students = students + 1;
 //students = students - 1;
 //students = students * 2;
@@ -38,12 +38,15 @@ let students = 30;
 //students = students ** 2;
 //students = students % 2;
 
-students +=1;
-students-=1;
-students *=2;
-students /=2;
-students **=2;
+//students +=1;
+//students-=1;
+//students *=2;
+//students /=2;
+//students **=2;
 
-students++;
-students--;
-console.log(students);
+//students++;
+//students--;
+//console.log(students);
+let result = 1+6+16;
+
+console.log(result);
