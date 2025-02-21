@@ -47,6 +47,9 @@ let students = 30;*/
 //students++;
 //students--;
 //console.log(students);
-let result = 1+6+16;
+//let result = 1+6+16;
 
-console.log(result);
+//console.log(result);
+how to accept user Input
+easy way = window prompt
+proffessional way = HTML textbox
