@@ -58,4 +58,8 @@ let students = 30;*/
 
 //username = window.prompt("what's your username?");
 //console.log(username);
-document.getElementById("mySubmit").onclick
+let username;
+
+document.getElementById("mySubmit").onclick = function(){
+    username = document.getElementById("myText").value;
+}
