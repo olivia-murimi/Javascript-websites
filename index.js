@@ -3,8 +3,8 @@
 
 //window.alert(`This is an alert!`);
 //window.alert(`I like pizza!`);
-document.getElementById("myH1").textContent = "Hello";
-document.getElementById("myP").textContent = "I like pizza";
+//document.getElementById("myH1").textContent = "Hello";
+//document.getElementById("myP").textContent = "I like pizza";
 //This is a comment
 /*This is a comment*/
 /*let age = 25;
@@ -50,6 +50,11 @@ let students = 30;*/
 //let result = 1+6+16;
 
 //console.log(result);
-how to accept user Input
-easy way = window prompt
-proffessional way = HTML textbox
+h//ow to accept user Input
+//easy way = window prompt
+//
+//proffessional way = HTML textbox
+let username;
+
+username = window.prompt("what's your username?");
+console.log(username);
