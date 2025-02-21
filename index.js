@@ -50,11 +50,11 @@ let students = 30;*/
 //let result = 1+6+16;
 
 //console.log(result);
-h//ow to accept user Input
+//how to accept user Input
 //easy way = window prompt
 //
 //proffessional way = HTML textbox
-let username;
+//let username;
 
-username = window.prompt("what's your username?");
-console.log(username);
+//username = window.prompt("what's your username?");
+//console.log(username);
