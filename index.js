@@ -64,7 +64,10 @@ let students = 30;*/
     //username = document.getElementById("myText").value;
 //document.getElementById("myH1").textContent =`Hello ${username}`
 //}
-let age = window.prompt("How old are you");
-age = number(age);
-age+=1;
-console.log(age, typeof age);
+let x ="pizza";
+let y ="pizza";
+let z ="pizza";
+x = Number(x);
+y = String(y);
+z = Boolean(z);
+console.log(x, typeof x);
