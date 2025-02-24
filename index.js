@@ -65,4 +65,5 @@ let students = 30;*/
 //document.getElementById("myH1").textContent =`Hello ${username}`
 //}
 let age = window.prompt("How old are you");
-age+
+age+=1;
+console.log(age);
