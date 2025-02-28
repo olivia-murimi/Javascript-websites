@@ -64,7 +64,7 @@ let students = 30;*/
     //username = document.getElementById("myText").value;
 //document.getElementById("myH1").textContent =`Hello ${username}`
 //}
-let x ="pizza";
+/*let x ="pizza";
 let y ="pizza";
 let z ="pizza";
 x = Number(x);
@@ -72,4 +72,8 @@ y = String(y);
 z = Boolean(z);
 console.log(x, typeof x);
 console.log(y, typeof y);
-console.log(z, typeof z);
+console.log(z, typeof z);*/
+//const = a variable that can't be changed
+let pi = 3.14159;
+let radius;
+let circumference;
