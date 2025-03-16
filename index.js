@@ -74,12 +74,13 @@ console.log(x, typeof x);
 console.log(y, typeof y);
 console.log(z, typeof z);*/
 //const = a variable that can't be changed
-const PI = 3.14159;
-let radius;
-let circumference;
-
-circumference = 2 * pi * radius;
- document.getElementById("mySubmit").onclick = function(){
-  document.getElementById("myText").value;
-  radius = Number(radius);
- }
+//const PI = 3.14159;
+//let radius;
+//let circumference;
+ //document.getElementById("mySubmit").onclick = function(){
+  //document.getElementById("myText").value;
+  //radius = Number(radius);
+  //circumference = 2 * PI * radius;
+  //document.getElementById("myH3").textContent = circumference ;
+ //}
+ // COUNTER PROGRAM
