@@ -1,4 +1,4 @@
-#countlabel{
+/*#countLabel{
     display: block;
     text-align: center;
     font-size: 10em;
@@ -18,4 +18,14 @@
 }
 .buttons:hover{
   background-color: black;
+}*/
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: ;
 }

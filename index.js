@@ -84,7 +84,7 @@ console.log(z, typeof z);*/
   //document.getElementById("myH3").textContent = circumference ;
  //}
  // COUNTER PROGRAM
- const decreaseBtn = document.getElementById("decreaseBtn");
+ /*const decreaseBtn = document.getElementById("decreaseBtn");
  const resetBtn = document.getElementById("resetBtn");
  const increaseBtn = document.getElementById("increaseBtn");
  const countLabel = document.getElementById("countLabel");
@@ -98,3 +98,10 @@ console.log(z, typeof z);*/
     count--;
     countLabel.textContent = count;
  }
+ resetBtn.onclick = function(){
+    count = 0;
+    countLabel.textContent = count;
+ }*/
+//RANDOM NUMBER GENERATOR
+let randomNum = Math.floor(Math.random() * 6) + 1;
+console.log(randomNum);
