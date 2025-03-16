@@ -103,5 +103,11 @@ console.log(z, typeof z);*/
     countLabel.textContent = count;
  }*/
 //RANDOM NUMBER GENERATOR
-let randomNum = Math.floor(Math.random() * 6) + 1;
-console.log(randomNum);
+//let randomNum = Math.floor(Math.//random() * 6) + 1;
+//console.log(randomNum);
+const myButton = document.getElementById("myButton");
+const myLabel = document.getElementById("myLabel");
+const min = 1;
+const max = 6;
+
+
