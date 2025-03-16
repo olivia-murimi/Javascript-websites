@@ -106,7 +106,7 @@ console.log(z, typeof z);*/
 //let randomNum = Math.floor(Math.//random() * 6) + 1;
 //console.log(randomNum);
 const myButton = document.getElementById("myButton");
-const myLabel = document.getElementById("myLabel");
+const label1= document.getElementById("label1");
 const min = 1;
 const max = 6;
 let randomNum;
