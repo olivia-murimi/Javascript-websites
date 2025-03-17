@@ -105,7 +105,7 @@ console.log(z, typeof z);*/
 //RANDOM NUMBER GENERATOR
 //let randomNum = Math.floor(Math.//random() * 6) + 1;
 //console.log(randomNum);
-const myButton = document.getElementById("myButton");
+/*const myButton = document.getElementById("myButton");
 const label1= document.getElementById("label1");
 const label2= document.getElementById("label2");
 const label3= document.getElementById("label3");
@@ -123,4 +123,5 @@ myButton.onclick = function(){
     label1.textContent = randomNum1;
     label2.textContent = randomNum2;
     label3.textContent = randomNum3;
-}
+}*/
+If staetements if a condition is true,m execute some code if not do something else
