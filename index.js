@@ -125,7 +125,7 @@ myButton.onclick = function(){
     label3.textContent = randomNum3;
 }*/
 //If statements= if a condition is true,m execute some code if not do something else.
-let age = 25;
+/*let age = 25;
 
 if(age >= 18){
  console.log("You are old enough to enter this site");
@@ -146,4 +146,14 @@ if(age >= 16){
 }
 else{
    console.log("You must be 16+ to have a license");
-}
+}*/
+let age = 18;
+ if(age >= 18){
+   console.logf("You are old enough to enter this site");
+ }
+ else if(age < 0){
+  console.log("Your age can't be below zero");
+ }
+ else{
+   console.log("You must be 18+ to enter this site");
+ }
