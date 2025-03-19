@@ -184,9 +184,18 @@ const paymentResult = document.getElementById("paymentResult");
 
 mySubmit.onclick = function(){
    if(myCheckBox.checked){
-      subResult.textContent = `You are subscribed`;
+      subResult.textContent = "You are subscribed!";
    }
    else{
-      subResult.textContent = `You aare not subcribed`;
+      subResult.textContent = `You are not subcribed!`;
+   }
+   if(visaBtn.checked){
+     paymentResult.textContent = `You are paying with visa`;
+   }
+   else if(masterCardBtn.checked){
+     paymentResult.textContent = `You are paying with MasterCard`;
+   }
+   else if(){
+
    }
 }
