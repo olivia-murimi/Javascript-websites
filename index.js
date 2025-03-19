@@ -177,3 +177,7 @@ mySubmit.onclick= function(){
 const myCheckBox = document.getElementById("myCheckBox");
 const visaBtn = document.getElementById("visaBtn");
 const masterCardBtn = document.getElementById("mastetCardBtn");
+const payPalBtn = document.getElementById("payPalBtn");
+const mySubmit = document.getElementById("mySubmit");
+const subResult = document.getElementById("subResult");
+const paymentResult = document.getElementById("paymentResult");
