@@ -173,4 +173,5 @@ mySubmit.onclick= function(){
    resultElement.textContent = `You must be 18+ to enter this site`;
   }
 }*/
-checked = property that determines the checked state of an HTML checkbox or radio Element.
+//checked = property that determines the checked state of an HTML checkbox or radio Element.
+
