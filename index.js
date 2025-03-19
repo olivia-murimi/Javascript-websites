@@ -147,7 +147,7 @@ if(age >= 16){
 else{
    console.log("You must be 16+ to have a license");
 }*/
-const myText = document.getElementById("myText");
+/*const myText = document.getElementById("myText");
 const mySubmit = document.getElementById("mySubmit");
 const resultElement = document.getElementById("resultElement");
 let age;
@@ -172,4 +172,5 @@ mySubmit.onclick= function(){
    
    resultElement.textContent = `You must be 18+ to enter this site`;
   }
-}
+}*/
+checked = property that determines the checked state of an HTML checkbox or radio Element.
