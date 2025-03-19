@@ -181,3 +181,12 @@ const payPalBtn = document.getElementById("payPalBtn");
 const mySubmit = document.getElementById("mySubmit");
 const subResult = document.getElementById("subResult");
 const paymentResult = document.getElementById("paymentResult");
+
+mySubmit.onclick = function(){
+   if(myCheckBox.checked){
+      subResult.textContent = `You are subscribed`;
+   }
+   else{
+      subResult.textContent = `You aare not subcribed`;
+   }
+}
